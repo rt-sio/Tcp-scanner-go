@@ -38,7 +38,7 @@
 3. Введите целевой адрес (например, `localhost` или `scanme.nmap.org`):
    ```text
    Введите целевой хост или IP-адрес (например, google.com или 192.168.1.1):
-   localhost
+   scanme.nmap.org
    ```
 
 ## ⚠️ Дисклеймер
